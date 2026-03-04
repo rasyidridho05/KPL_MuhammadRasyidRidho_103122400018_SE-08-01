@@ -1,4 +1,4 @@
-const arr = [2,1,26,28,-2]
+const arr = [2,0,26,28,-2]
 
 function mulOfArray(arr){
     let result = 1
