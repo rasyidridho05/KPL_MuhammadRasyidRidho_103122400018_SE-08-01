@@ -2,7 +2,7 @@
 
 **Output**
 
-![alt text](output.png)
+![alt text](image.png)
 
 **Deskripsi Program**
 
