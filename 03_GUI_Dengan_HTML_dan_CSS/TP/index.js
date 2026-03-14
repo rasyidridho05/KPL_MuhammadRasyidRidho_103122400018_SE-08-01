@@ -5,3 +5,4 @@ editorElement.addEventListener("input", (event) => {
     const textLength = event.target.value.length;
     charCountElement.textContent = textLength;
 });
+

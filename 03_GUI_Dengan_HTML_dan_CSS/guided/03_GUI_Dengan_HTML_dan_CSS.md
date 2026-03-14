@@ -1,4 +1,4 @@
-# Tugas Pendahuluan 03: GUI dengan HTML dan CSS
+# Guided 03: GUI dengan HTML dan CSS
 **Soal**
 
 Pembuatan konversi uppercase dan lowercase pada text area, serta counter huruf nya
