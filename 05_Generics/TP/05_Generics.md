@@ -1,4 +1,4 @@
-# Tugas Pendahuluan 05: Generics
+# Tugas Pendahuluan 05: 
 **Soal**
 
 Ini adalah kode yang mengurus jumlah semua karakter dan jumlah huruf:
