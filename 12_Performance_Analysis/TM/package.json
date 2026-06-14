@@ -1,0 +1,12 @@
+{
+  "name": "tm",
+  "version": "1.0.0",
+  "description": "**Nama:** Muhammad Rasyid Ridho **NIM:** 103122400018 **Kelas:** SE-08-01",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "hitung.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
